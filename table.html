@@ -1,0 +1,20 @@
+<!DIOCTYPE html>
+<html>
+ <head>
+		<title>Table</title>
+ </head>
+ <body>
+	 <script>
+		function myTable()
+		{
+		 var a=document.getElementById("n1").value;
+		 for(i=1; i<=(a*10); i++)
+		{
+		if(i%a==0)
+		document.write(i +"<br>")
+		}
+}	 </script>
+			<input type="text" id="n1" placeholder="enter number for table">
+			<button type="button" onclick="myTable()">Table</button>
+ </body>
+</html>

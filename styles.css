@@ -1,0 +1,37 @@
+body{
+	 margin:0;
+	padding:0;
+}
+ul{
+	list-style-type:none;
+	background-color:black;
+	color:white;
+}
+ul li{
+	display:inline-block;
+	padding:10px;
+}
+ul li:hover{
+			background-color:green;
+			color:white;
+	
+}
+ul li:hover .ddl{
+	display:block;
+	position:absolute;
+	margin-left:-10px;
+	margin-top:10px;
+}
+.ddl ul{
+		margin:0;
+		padding:0;
+}
+.ddl ul li {
+			display:block;
+	
+	
+}
+.ddl{
+	display:none;
+	
+}

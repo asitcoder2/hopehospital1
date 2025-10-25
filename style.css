@@ -1,0 +1,970 @@
+	#function-key{
+			width:100%;
+			height:50px;
+			
+	}
+	#f1{
+		   width:4%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f2{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:20px;
+		   float:left;
+		   padding:2px;
+	}
+	#f3{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f4{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f5{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f6{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:20px;
+		   float:left;
+		   padding:2px;
+	}
+	#f7{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f8{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f9{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f10{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:20px;
+		   float:left;
+		   padding:2px;
+	}
+	#f11{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f12{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f13{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f14{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:20px;
+		   float:left;
+		   padding:2px;
+	}
+	#f15{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#f16{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#number-key{
+			width:100%;
+			height:30px;
+			
+	}
+	#n1{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n2{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n3{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n4{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n5{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n6{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n7{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n8{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n9{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n10{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n11{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n12{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n13{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n14{
+		   width:7%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n15{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:20px;
+		   float:left;
+		   padding:2px;
+	}
+	#n16{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n17{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n18{
+		   width:6%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:30px;
+		   float:left;
+		   padding:2px;
+	}
+	#n19{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n20{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#n21{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#symble-key{
+			width:100%;
+			height:30px;
+			float:left;
+	}
+	#s1{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s2{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s3{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s4{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s5{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s6{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s7{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s8{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s9{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s10{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s11{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s12{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s13{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s14{
+		   width:4%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s15{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:20px;
+		   float:left;
+		   padding:2px;
+	}
+	#s16{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s17{
+		   width:6%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s18{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:21px;
+		   float:left;
+		   padding:2px;
+	}
+	#s19{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s20{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#s21{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#caps-key{
+				width:100%;
+				height:30px;
+				float:left;
+	}
+	#c1{
+		   width:7%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c2{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c3{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		    float:left;
+		   padding:2px;
+	}
+	#c4{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c5{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c6{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c7{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c8{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c9{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c10{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c11{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c12{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c13{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c14{
+		   width:4%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:300px;
+		   float:left;
+		   padding:2px;
+	}
+	#c15{
+		   width:4%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#c16{
+		   width:4%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	
+	#alpha-key{
+				width:100%;
+				height:30px;
+				
+				
+	}
+	#a1{
+		   width:7%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a2{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a3{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		    float:left;
+		   padding:2px;
+	}
+	#a4{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a5{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a6{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a7{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a8{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a9{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a10{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a11{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a12{
+		   width:7%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a13{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:100px;
+		   float:left;
+		   padding:2px;
+	}
+	#a14{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:133px;
+		   float:left;
+		   padding:2px;
+	}
+	#a15{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#a16{
+		   width:2%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	
+	#a17{
+		   width:4%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#control-key{
+				width:100%;
+				height:30px;
+				float:left;
+	}
+	#r1{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#r2{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#r3{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		    float:left;
+		   padding:2px;
+	}
+	#r4{
+		   width:15%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#r5{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#r6{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#r7{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#r8{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#r9{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:45px;
+		   float:left;
+		   padding:2px;
+	}
+	#r10{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#r11{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	#r12{
+		   width:5%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:60px;
+		   float:left;
+		   padding:2px;
+	}
+	#r13{
+		   width:3%;
+		   height:16px;
+		   border:3px solid black;
+		   margin-top:4px;
+		   margin-left:4px;
+		   float:left;
+		   padding:2px;
+	}
+	

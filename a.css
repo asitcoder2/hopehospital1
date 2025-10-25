@@ -1,0 +1,120 @@
+body{
+	background:#dbe9f4;
+}
+*{
+margin:0; padding:0;
+}
+nav{
+	display:flex;
+	justify-content:space-between;
+	background-color:#56004f;
+	color:white;
+	padding:30px 20px;
+	border-radius:0% 30%;
+}
+nav ul {
+		display:flex;
+		list-style:none;
+}
+li{
+	padding:0px 30px;
+}
+.gradient-text{
+	font-family:courier new;
+	font-size:30px;
+	font-weight:bold;
+	background-image:linear-gradient(to right,#ffa500,#00bfff);
+	-webkit-background-clip:text;
+	background-clip:text;
+	-webkit-text-fill-color:transparent;
+	color:transparent;
+}
+@media (max-width:700px){
+ul{
+	flex-direction:column;
+	text-align:center;
+}						
+li{
+	padding:10px 0px;
+}	
+li:hover{
+		background:#8d4bbb;
+		color:#ff4777;
+}						
+nav{
+	flex-direction:column;
+	text-align:center;
+}						
+							
+}
+#h{
+	`display:flex;
+	flex-direction:column;
+	background:#665757;
+	padding:30px 20px;
+	text-align:center;
+	flex-wrap:wrap;
+}
+#c{
+	background-image:linear-gradient(to right,#44cef6,#ffc64b);
+	-webkit-background-clip:text;
+	background-clip:text;
+	-webkit-text-fill-color:transparent;
+	color:transparent;
+}
+#frames{
+	display:flex;
+	flex-wrap:wrap;
+	padding:20px;
+	gap:20px;
+	justify-content:center;
+}
+.frame{
+	border:2px solid black;
+	padding:10px;
+	text-align:center;
+	max-width:300px;
+	transition:1s;
+}
+.frame:hover{
+			box-shadow:0 0 20px #665757;
+			background:#c93756;
+			border-radius:4% 20%;
+}
+.container{
+			position:relative;
+			width:200px;
+			height:200px;
+}
+.square{
+		position:absolute;
+		top:40%;
+		left:55%;
+		width:100px;
+		height:100px;
+		border:2px solid transparent;
+		transform:translate(-50%, -50%);
+		box-sizing:border-box;
+}
+.blue-neon{
+			border-color:#00ffff;
+			transform:translate(-50%, -50%) rotate(25deg);
+			box-shadow:0 0 10px 00ffff, 0 0 20px #00ffff, 0 0 30px #00ffff, 0 0 40px #00ffff;
+}
+.orange-neon{
+			 border-color:#ffa500;
+			transform:translate(-50%, -50%) rotate(-25deg);
+			box-shadow:0 0 10px #ffa500, 0 0 20px #ffa500, 0 0 30px #ffa500, 0 0 40px #ffa500;
+}
+#z{
+	border-radius:50%;
+	top:50%;
+	left:55%;
+}
+#a{
+	background-image:url(4.jpeg);
+	-webkit-background-clip:text;
+	background-clip:text;
+	-webkit-text-fill-color:transparent;
+	color:transparent;
+}

@@ -1,0 +1,115 @@
+body{background:#a6b6fd; line-height: 1.5; font-family:italic}
+*{margin:0; padding:0; box-sizing: border-box;}
+            /*---------------navbar------------*/
+nav{display:flex; justify-content:space-between; background-color:#1e90ff; color:white; padding:30px 20px; height:100px;}
+nav ul {display:flex; list-style:none;}
+li{padding:0px 30px;}
+nav ul li a{text-decoration: none; color:white; font-size: 20px; line-height: 50px;}
+nav ul li a:hover{color: #151616; font-weight: bold;}
+.header{position: fixed; width: 100%;}
+                /*--------home page-----------*/
+.home{padding: 32px 7%; background-image: url(hexa1.jfif);background-size: cover;}
+.main-home{display: flex; align-items: center; flex-wrap: wrap; padding-top: 6%;}
+.main-inner-home{flex:1 1 400px;}
+.main-inner-home  h1 strong{font-size:40px; color: rgb(123, 59, 165); font-weight: bold; }
+.main-inner-home p{font-size: 24px; color: #3d4879}
+.main-inner-home,.right-content-img img{width: 100%; padding: 30px;}
+.main-inner-home a{padding: 24px 32px; border-radius:25px; font-size: 24px; color: white; background:rgb(31, 190, 143); margin: 15px 0px;text-decoration: none;}
+        /*------------------Responsive layout----------------*/
+@media (max-width:768px){
+.logo{height: 60px; width: 50px;}   
+ul{flex-direction:column; text-align:left;}						
+li{padding:2px 2px; margin-bottom: auto;}	
+li:hover{color: black; }						
+nav{flex-direction:column; text-align:left; height:400px;}
+.header{position: relative;}
+        /*home responsive*/
+        .main-home{padding-top:64px;}
+        .main-inner-home,.right-content-img img{padding: 10px;}
+}
+
+        
+        /* -------------footer------------*/
+.footer{background-color: #24262b; padding:70px 0;}
+.container{max-width: 1170px; margin: auto;}
+.row{display: flex; flex-wrap:wrap;}
+.footer-col{width: 25%; padding: 0 2px;}
+.footer-col h4{font-size: 20px; color:#ffffff; text-transform: capitalize; margin-bottom: 15px; font-weight: 500; position: relative;}
+.footer-col ul li:not(:last-child){margin-bottom: 10px;}
+.footer-col ul li a{font-size:16px; text-transform:capitalize; color:#ffffff; text-decoration:none; font-weight:300; color:#bbbbbb; display:block;}
+.footer-col ul li a:hover{color:#ffffff; padding-left:8px;} 
+.footer-col h4::before{content: ''; position: absolute; left:0; bottom:-10px; background-color:#e91e63; height:2px; box-sizing:border-box; width:50px;}
+.add{color: white; padding: 5px;}
+.a{color: white; padding: 5px;}
+.footer-col i{color: rgb(162, 162, 250); margin-right: 10px;}
+.footer-col p{margin-bottom: 10px; color: #ffffff}
+                /* -------------responsive------------*/
+@media(max-width:768px){
+    .footer-col{width:50%; margin-bottom:30px;}
+}
+@media(max-width:574px){
+    .footer-col{width:100%;}
+    .footer-col ul li a:hover{color: white;}
+}
+
+
+                        /*-----service page----------*/
+
+.services{padding: 32px 7%; width: 100%; background-color: rgb(240, 238, 235);}
+.Service-heading h1{text-align: center; font-size: 40px; padding-bottom: 48px;}
+.Service-heading h1 span{color:#1e90ff;}
+.main-services{display:flex; align-items:center; flex-wrap: wrap; gap: 16px;}
+.main-inner-services{flex: 1 1 300px; padding: 16px; box-shadow:0 0 3px 3px gray; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;}
+.main-inner-services .services-img img{width: 100%;}
+.services-content{text-align: center; background-color: rgb(221, 219, 238);
+                   border-bottom-left-radius:15px; border-bottom-right-radius: 15px; padding:64px 0;}
+.services-content h2{font-size: 22px; padding: 16px 0;}
+.services-content p{font-size: 20px; padding: 16px 0; line-height: 40px; margin-bottom: 32px;}
+.services-content a{padding: 24px 48px; border-radius:25px; font-size: 24px; color: white; background:rgb(22, 187, 124); margin: 10px 0px;text-decoration: none;}
+
+                /* appointment-----*/
+.appointment{padding:32px 7%; background-color: #c7c8f3;}
+.heading-appointment{text-align: center;}
+.heading-appointment h1{font-size: 40px; padding: 32px;}
+.heading-appointment h1 span{color:#1e90ff;}
+.main-appointment{align-items:center;gap: 24px; display: flex;}
+.main-inner-appointment{flex:1 1 720px;}
+.main-inner-appointment img{width: 100%; padding: 64px;}
+.right-appointment-content{padding:0 64px;}
+.right-appointment-content h2{font-size: 25px; padding: 20px 0;}
+.right-appointment-content h2 span{color:#1e90ff;}
+.right-appointment-content p{font-size:24px; line-height:32px; text-transform: capitalize; margin-bottom: 25px;}
+.right-appointment-content a{padding: 24px 48px; font-size: 24px; color: white; background:rgb(22, 187, 124); text-decoration: none; transition: 0.5s;}
+.right-appointment-content a:hover{border-radius: 15px;}
+/* -----------------appointment----------*/
+@media(max-width:768px){
+    .main-appointment{align-items:center;gap: 24px; display: flex; flex-wrap: wrap;}
+    .right-appointment-content a{align-items: left; display:flex; flex-wrap: wrap;}
+}
+
+/*-------our-experts------*/
+.doctor{padding: 32px 7%; width: 100%; background-color: rgb(220, 245, 228);}
+.doctor-heading h1{text-align: center; font-size: 40px; padding-bottom: 48px;}
+.doctor-heading h1 span{color:#1e90ff;}
+.main-doctor{display:flex; align-items:center; flex-wrap: wrap; gap: 16px;}
+.main-inner-doctor{flex: 1 1 300px; padding: 16px; border-radius: 20px; margin-bottom: 25px;}
+.main-inner-doctor .doctor-img img{width: 100%;}
+.doctor-content{text-align: center; background-color: rgb(221, 219, 238);}
+.doctor-content h2{font-size: 22px; padding: 5px 0;}
+.doctor-content p{color: blue; padding: 5px 0;}
+.social-media i{margin: 16px 24px; background: #24262b; color: #ffffff; padding: 5px; transition: 0.5; font-size: 16px;}
+.social-media i:hover{font-size: 17px; cursor: pointer;}
+
+/*---------------contact-----------*/
+.contact{min-height: 100vh; padding: 50px; text-align: center; width: 100%;}
+.container{max-width: 800px; margin: 0 auto;}
+.contact-wrapper{display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 30px;}
+.contact-form{text-align: left;}
+.contact-form h3{font-size: 24px; margin-bottom: 20px; color: #333;}
+.form-group{margin-bottom: 20px;}
+input, textarea{width: 100%; padding: 12px; border-radius: 8px; border: none; background-color: #f8f9fa; color: #333;}
+button{font-weight: bolder; display: inline-block; padding: 12px 24px; background-color: rgb(22, 187, 124); border: none; cursor: pointer; width: 100%; margin-bottom: 10px; font-size:large;}
+.contact-info{text-align: left;}
+.contact-info h3{font-size: 24px; margin-bottom: 20px; color: #333;}
+.contact-info p{margin-bottom: 10px; color: #1a1919;}
+.contact-info i{color: rgb(8, 8, 236); margin-right: 10px;}

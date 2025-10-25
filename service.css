@@ -1,0 +1,9 @@
+/*-----service page----------*/
+*{margin: 0; padding: 0;}
+body{background-color:#dfe9f3;}
+.services{padding: 32px 7%; width: 100%; background-color: rgb(240, 238, 235);}
+.Service-heading h1{text-align: center; font-size: 40px; padding-bottom: 48px;}
+.Service-heading h1 span{color:#1e90ff;}
+.main-services{display:flex; align-items:center; flex-wrap: wrap; gap: 16px;}
+.main-inner-services{flex: 1 1 300px; padding: 16px;}
+.main-inner-services .services-img img{width: 100%;}
